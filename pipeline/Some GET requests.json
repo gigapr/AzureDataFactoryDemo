@@ -39,7 +39,8 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"url": "http://bbc.com"
+					"url": "http://bbc.com",
+					"method": "GET"
 				}
 			}
 		],
